@@ -1,5 +1,7 @@
 # react-flight-indicators
 
+![Preview](https://ify.re/f/jI2Y1VKr.png)
+
 How to start locally:
 
 ```
